@@ -1,3 +1,2 @@
 # Pinterest-Clone
 
-Under development...
